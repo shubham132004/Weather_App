@@ -1,5 +1,11 @@
 # Weather App
 
+
+https://github.com/user-attachments/assets/28afe919-4643-4011-b787-eabcd1c737a7
+
+
+
+
 ## Description
 
 This is a simple weather application built using Python's Tkinter library for the graphical user interface. It fetches real-time weather data from the OpenWeatherMap API and displays information such as temperature, wind speed, humidity, pressure, and a brief weather description based on the city entered by the user.
